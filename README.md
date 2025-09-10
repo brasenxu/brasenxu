@@ -1,7 +1,7 @@
 <h1 align="center">Good morning, this is Brasen Xu</h1>
 <h3 align="center">... or good afternoon, good evening, etc.</h3>
 
-I am a third year Computer Science co-op student at the University of Waterloo! I enjoy programming, developing, and learning new skills. The only things hindering me are the fact that there is only 24 hours in a day, and the mountains of calculus homework I still need to complete.
+I am a fourth-year Computer Science co-op student with an AI specialization at the University of Waterloo. I enjoy programming, developing, and learning new skills. The only things hindering me are the fact that there are only 24 hours in a day, and the mountains of calculus homework I still need to complete.
 I hope that one day I will be able to live in a world free of calculus exams, but alas, that day has still not come.
 
 <a href="https://linkedin.com/in/brasenxu"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
